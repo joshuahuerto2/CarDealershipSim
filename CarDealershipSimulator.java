@@ -1,5 +1,4 @@
 //Name: Joshua Huerto
-//Student Number: #500876654
 //Assignment1, CPS209 W2019
 
 //Importing the ArrayList and Scanner classes
