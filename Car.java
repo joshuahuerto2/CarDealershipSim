@@ -1,5 +1,4 @@
 //Name: Joshua Huerto
-//Student Number: #500876654
 //Assignment1, CPS209 W2019
 
 
@@ -22,7 +21,6 @@ public class Car extends Vehicle implements Comparable<Car>
         SEDAN, SUV, SPORTS, MINIVAN;
     }
 
-    
     
     /** A constructor that sets up the four new instance variables, along with
      * the four instance variables from the parent Vehicle class by using super()
